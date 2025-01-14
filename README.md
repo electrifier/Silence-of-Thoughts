@@ -1,7 +1,12 @@
 # Silence Of Thoughts
-
 Silence Of Thoughts
 
-## Silence of Thoughts auf Soundcloud
+## silent thinker
+- Alan Smithee
+- Ali Bengali
+- Flo Jospehus
+- Taj Bender
+- Volker of Death
 
+# streams of thoughts
 https://soundcloud.com/silenceofthoughts/albums
