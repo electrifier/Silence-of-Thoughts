@@ -1,5 +1,7 @@
 # Silence Of Thoughts
-Silence Of Thoughts
+
+![Silence Of Thoughts][zebra_hausen.jpg]
+
 
 ## silent thinker
 - Alan Smithee
@@ -9,7 +11,11 @@ Silence Of Thoughts
 - Volker of Death
 
 # streams of thoughts
-https://soundcloud.com/silenceofthoughts/albums
+- https://soundcloud.com/silenceofthoughts
+- https://soundcloud.com/silenceofthoughts/albums
 
 ## live on stage
 - comming soon.
+
+
+[zebra_hausen.jpg]: image.png
