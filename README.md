@@ -5,7 +5,7 @@ Silence Of Thoughts
 - Alan Smithee
 - Ali Bengali
 - Flo Jospehus
-- Taj Bender
+- Taj _the artist formerly known as djunga_ Bender
 - Volker of Death
 
 # streams of thoughts
