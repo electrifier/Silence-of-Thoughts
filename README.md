@@ -10,3 +10,6 @@ Silence Of Thoughts
 
 # streams of thoughts
 https://soundcloud.com/silenceofthoughts/albums
+
+## live on stage
+- comming soon.
